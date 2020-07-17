@@ -2,7 +2,7 @@ import useSWR from 'swr';
 import Link from 'next/link';
 import { useUser } from '../utils/auth/useUser';
 import { app, db, getCustomClaimRole } from '../utils/auth/initFirebase';
-import getStripe from '../utils/auth/getStripe';
+import getStripe from '../utils/getStripe';
 
 const fetcher = (url, token) =>
   fetch(url, {

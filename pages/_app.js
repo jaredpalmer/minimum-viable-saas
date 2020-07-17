@@ -1,5 +1,5 @@
 import '../styles/index.css';
 
-export default function Nextra({ Component, pageProps }) {
+export default function App({ Component, pageProps }) {
   return <Component {...pageProps} />;
 }
