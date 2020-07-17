@@ -1389,6 +1389,11 @@
   resolved "https://registry.yarnpkg.com/@protobufjs/utf8/-/utf8-1.1.0.tgz#a777360b5b39a1a2e5106f8e858f2fd2d060c570"
   integrity sha1-p3c2C1s5oaLlEG+OhY8v0tBgxXA=
 
+"@stripe/stripe-js@^1.8.0":
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/@stripe/stripe-js/-/stripe-js-1.8.0.tgz#100f102d757cd024f94635dba231993554c8cfba"
+  integrity sha512-VsIohJw70LIdB4b621RN6pTyw49ZMy+QjB81fl+Psu5X5ppiq/c+rG0F+XKHSVpp4JZRNDkQnsOGeuHow0aluA==
+
 "@tootallnate/once@1":
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/@tootallnate/once/-/once-1.1.2.tgz#ccb91445360179a04e7fe6aff78c00ffc1eeaf82"
