@@ -16,5 +16,26 @@
     "react-dom": "^16.13.1",
     "react-firebaseui": "4.1.0",
     "swr": "0.2.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/custom-forms": "^0.2.1",
+    "@tailwindcss/typography": "^0.2.0",
+    "autoprefixer": "^9.8.5",
+    "postcss": "^7.0.32",
+    "postcss-preset-env": "^6.7.0",
+    "tailwindcss": "^1.5.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "ie 11"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version",
+      "ie 11"
+    ]
   }
 }
