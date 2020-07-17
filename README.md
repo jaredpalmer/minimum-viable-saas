@@ -5,11 +5,19 @@ A feature-complete membership app in less than ~400 lines of code.
 ## Built with
 
 - Next.js
-- Tailwind
 - Firebase Auth
 - Firebase Firestore
 - Firebase Stripe Extension
 - Stripe Customer Portal
+- Tailwind
+
+## Features
+
+- Login/Logout
+- 2 product tiers (Basic and Premium) with 2 price plans each (monthly and yearly)
+- Subscription management, card management, and plan cancellation via Stripe Customer Portal
+- Basic-only content
+- Premium-only content
 
 ## Background
 
